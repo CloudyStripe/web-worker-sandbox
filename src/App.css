@@ -4,3 +4,29 @@
   padding: 2rem;
   text-align: center;
 }
+
+
+.content {
+  padding: 30px;
+  border: 1px solid black;
+}
+
+.content * {
+  margin: 20px 0px 20px 0px;
+}
+
+.fibNumber {
+  text-align: center;
+}
+
+.notification {
+  color: red;
+  padding-top: 20px;
+  font-weight: bolder;
+}
+
+.workerButtonContainer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
